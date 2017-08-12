@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UrlTool.Form1.resources
+obj\Debug\UrlTool.Properties.Resources.resources
+obj\Debug\UrlTool.csproj.GenerateResource.Cache
+bin\Debug\UrlTool.exe
+bin\Debug\UrlTool.pdb
+obj\Debug\UrlTool.exe
+obj\Debug\UrlTool.pdb
+obj\Debug\UrlTool.Form2.resources
+obj\Debug\UrlTool.frmTest.resources

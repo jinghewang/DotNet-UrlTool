@@ -1,0 +1,10 @@
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.exe
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.pdb
+F:\用户自定义控件\UrlTool\UrlTool\bin\Debug\UrlTool.exe
+F:\用户自定义控件\UrlTool\UrlTool\bin\Debug\UrlTool.pdb
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\ResolveAssemblyReference.cache
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.Form1.resources
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.Form2.resources
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.Properties.Resources.resources
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.csproj.GenerateResource.Cache
+F:\用户自定义控件\UrlTool\UrlTool\obj\Debug\UrlTool.frmTest.resources
